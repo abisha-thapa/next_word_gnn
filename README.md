@@ -1,7 +1,7 @@
 # __Next Word Suggestion using Graph Neural Network__
 
 ## __Description__
-This is a course research project for _Data Mining_ course.
+This is a research project for _Data Mining_ course.
 
 __Abstract__
 
